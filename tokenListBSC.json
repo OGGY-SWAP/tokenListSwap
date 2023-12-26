@@ -1,4 +1,15 @@
-[
+{
+  "name": "OggySwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://swap.oggyinu.com/logo.png?v=1.1",
+  "keywords": ["OggySwap", "default"],
+  "tokens": [
     {
       "name": "OGGY Token",
       "symbol": "OGGY",
@@ -893,3 +904,4 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B.png"
     }
   ]
+}
