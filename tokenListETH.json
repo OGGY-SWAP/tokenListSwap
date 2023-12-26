@@ -17,7 +17,7 @@
       "chainId": 1,
       "decimals": 9,
       "position": 1,
-      "logoURI": "/images/swap/logo-icon.png?v=1.2"
+      "logoURI": "https://swap.oggyinu.com/images/swap/logo-icon.png?v=1.2"
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -35,7 +35,7 @@
       "chainId": 1,
       "decimals": 18,
       "position": 2,
-      "logoURI": "/images/coins/DOGB.jpg"
+      "logoURI": "https://swap.oggyinu.com/images/coins/DOGB.jpg"
     },
     {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
