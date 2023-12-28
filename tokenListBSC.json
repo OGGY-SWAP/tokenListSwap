@@ -20,6 +20,15 @@
       "logoURI": "https://swap.oggyinu.com/images/swap/logo-icon.png?v=1.2"
     },
     {
+      "name": "OPTIMUS GROKS",
+      "symbol": "OPGROKS",
+      "address": "0xeBdea6832976422D6717de58106750E78A896b18",
+      "chainId": 56,
+      "decimals": 9,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/Optimus%20Groks.png?raw=true"
+    },
+    {
       "name": "PawStars Token",
       "symbol": "PawStars",
       "address": "0xFC914eCB4e4cbEea1Fcf5315129C6cdB398cd465",
