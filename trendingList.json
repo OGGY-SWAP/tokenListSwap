@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "OGGY",
+    "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
+    "position": 1,
+    "logo": "/images/swap/logo-icon.png",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/ethereum/0x39a34c542b0204a1b49a4886c312be7cb2e2a008",
+    "iconFire": true
+  },
+  {
+    "Name": "FROGGY",
+    "addressToken": "0x4C561c1ef2109fc6b230304b114671F72820421B",
+    "position": 2,
+    "logo": "https://bscscan.com/token/images/froggybsc_32.png",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x92fe0733c1219d1d76b09eed091914050430abbe",
+    "iconFire": false
+  },
+  {
+    "Name": "DROGGY",
+    "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
+    "position": 3,
+    "logo": "/images/coins/DROGGY.jpg",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x34533e98cae1276bf150e14f19acbf087a2e5672",
+    "iconFire": false
+  },
+  {
+    "Name": "Grok X",
+    "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
+    "position": 4,
+    "logo": "https://swap.oggyinu.com/images/coins/Grok X.jpg",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x23d96597b71599ba91f01bc9ff8a20fd282b3711",
+    "iconFire": false
+  },
+  {
+    "Name": "GROKINU",
+    "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
+    "position": 5,
+    "logo": "https://bscscan.com/token/images/gorukinu_32.png",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xa62ce444dbcc96ad2cea40805a780403e5434ce9",
+    "iconFire": false
+  }
+]
