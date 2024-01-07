@@ -29,6 +29,15 @@
       "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/Optimus%20Groks.png?raw=true"
     },
     {
+      "name": "Baby Dragon",
+      "symbol": "BabyDragon",
+      "address": "0xd7935bF3a576E997021789F895F0E898fC1aADd6",
+      "chainId": 56,
+      "decimals": 9,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyDragon%20Logo.png?raw=true"
+    },
+    {
       "name": "PawStars Token",
       "symbol": "PawStars",
       "address": "0xFC914eCB4e4cbEea1Fcf5315129C6cdB398cd465",
