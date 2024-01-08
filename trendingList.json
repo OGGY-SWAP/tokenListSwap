@@ -10,23 +10,23 @@
   {
     "Name": "FROGGY",
     "addressToken": "0x4C561c1ef2109fc6b230304b114671F72820421B",
-    "position": 2,
+    "position": 4,
     "logo": "https://bscscan.com/token/images/froggybsc_32.png",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x92fe0733c1219d1d76b09eed091914050430abbe",
     "iconFire": false
   },
   {
-    "Name": "DROGGY",
-    "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
-    "position": 3,
-    "logo": "/images/coins/DROGGY.jpg",
-    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x34533e98cae1276bf150e14f19acbf087a2e5672",
-    "iconFire": false
+    "Name": "Baby Dragon",
+    "addressToken": "0xd7935bF3a576E997021789F895F0E898fC1aADd6",
+    "position": 2,
+    "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyDragon%20Logo.png?raw=true",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x8551C93859eda070170fcdc4AA18c1906471012D",
+    "iconFire": true
   },
   {
     "Name": "Grok X",
-    "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
-    "position": 4,
+    "addressToken": "0xa7ffb399d44eb830f01751052C75d14f0b47E779",
+    "position": 5,
     "logo": "https://swap.oggyinu.com/images/coins/Grok X.jpg",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x23d96597b71599ba91f01bc9ff8a20fd282b3711",
     "iconFire": false
@@ -34,7 +34,7 @@
   {
     "Name": "GROKINU",
     "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
-    "position": 5,
+    "position": 3,
     "logo": "https://bscscan.com/token/images/gorukinu_32.png",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xa62ce444dbcc96ad2cea40805a780403e5434ce9",
     "iconFire": false
