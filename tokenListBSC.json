@@ -37,6 +37,15 @@
       "position": 1,
       "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyDragon%20Logo.png?raw=true"
     },
+       {
+      "name": "Baby Elon",
+      "symbol": "BabyElon",
+      "address": "0x258903A8e68d5248dE85CF8a0a173d9e046EdD98",
+      "chainId": 56,
+      "decimals": 9,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BABYELON%20logo.png?raw=true"
+    },
     {
       "name": "PawStars Token",
       "symbol": "PawStars",
