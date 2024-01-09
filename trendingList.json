@@ -2,7 +2,7 @@
   {
     "Name": "OGGY",
     "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
-    "position": 1,
+    "position": 2,
     "logo": "/images/swap/logo-icon.png",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/ethereum/0x39a34c542b0204a1b49a4886c312be7cb2e2a008",
     "iconFire": true
@@ -18,7 +18,7 @@
   {
     "Name": "Baby Dragon",
     "addressToken": "0xd7935bF3a576E997021789F895F0E898fC1aADd6",
-    "position": 2,
+    "position": 1,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyDragon%20Logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x8551C93859eda070170fcdc4AA18c1906471012D",
     "iconFire": true
