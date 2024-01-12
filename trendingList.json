@@ -2,7 +2,7 @@
   {
     "Name": "OGGY",
     "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
-    "position": 3,
+    "position": 4,
     "logo": "/images/swap/logo-icon.png",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/ethereum/0x39a34c542b0204a1b49a4886c312be7cb2e2a008",
     "iconFire": true
@@ -18,7 +18,7 @@
   {
     "Name": "Baby Dragon",
     "addressToken": "0xd7935bF3a576E997021789F895F0E898fC1aADd6",
-    "position": 1,
+    "position": 2,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyDragon%20Logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x8551C93859eda070170fcdc4AA18c1906471012D",
     "iconFire": true
@@ -26,7 +26,7 @@
   {
     "Name": "Baby Elon",
     "addressToken": "0x258903A8e68d5248dE85CF8a0a173d9e046EdD98",
-    "position": 2,
+    "position": 3,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BABYELON%20logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x04C6C9ed900ec87b52DF1c664d1ac16650398421",
     "iconFire": false
@@ -34,9 +34,17 @@
   {
     "Name": "GROKINU",
     "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
-    "position": 4,
+    "position": 6,
     "logo": "https://bscscan.com/token/images/gorukinu_32.png",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xa62ce444dbcc96ad2cea40805a780403e5434ce9",
     "iconFire": false
   }
+  {
+    "Name": "Bonk Grok",
+    "addressToken": "0x3039d49843B8820fc9D457BB40e29fF0E0450A79",
+    "position": 1,
+    "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BonkGrok%20logo.png?raw=true",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xcC972d38e96B337ef1E2f60f62725ef5c80eF8B9",
+    "iconFire": true
+  },
 ]
