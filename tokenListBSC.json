@@ -47,6 +47,15 @@
       "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BABYELON%20logo.png?raw=true"
     },
     {
+      "name": "Bonk Grok",
+      "symbol": "BONKGROK",
+      "address": "0x3039d49843B8820fc9D457BB40e29fF0E0450A79",
+      "chainId": 56,
+      "decimals": 18,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BonkGrok%20logo.png?raw=true"
+    },
+    {
       "name": "PawStars Token",
       "symbol": "PawStars",
       "address": "0xFC914eCB4e4cbEea1Fcf5315129C6cdB398cd465",
