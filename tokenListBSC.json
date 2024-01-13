@@ -47,6 +47,15 @@
       "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BABYELON%20logo.png?raw=true"
     },
     {
+      "name": "Baby Tomcat",
+      "symbol": "BabyTomcat",
+      "address": "0xbfC89d2134053D15d277a01c2A1A1980E0A5dbCd",
+      "chainId": 56,
+      "decimals": 9,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyTomcat%20Logo%20200x200.png?raw=true"
+    },
+    {
       "name": "Bonk Grok",
       "symbol": "BONKGROK",
       "address": "0x3039d49843B8820fc9D457BB40e29fF0E0450A79",
