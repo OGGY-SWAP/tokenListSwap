@@ -46,5 +46,77 @@
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BonkGrok%20logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xcC972d38e96B337ef1E2f60f62725ef5c80eF8B9",
     "iconFire": true
+  },
+    {
+    "Name": "OPTIMUS GROKS",
+    "addressToken": "0xeBdea6832976422D6717de58106750E78A896b18",
+    "position": 8,
+    "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/Optimus%20Groks.png?raw=true",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x6fB06fF935611f0192e789044fc8402758C2c143",
+    "iconFire": false
+  },
+  {
+    "Name": "PawStars Token",
+    "addressToken": "0xFC914eCB4e4cbEea1Fcf5315129C6cdB398cd465",
+    "position": 13,
+    "logo": "https://swap.oggyinu.com/images/coins/paw-stars.png?v=1.2",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xA4C438Bca6eADa2e3BcBaBd5A5381303F5a7006c",
+    "iconFire": false
+  },
+  {
+    "Name": "Baby Bob",
+    "addressToken": "0x7feb783d2672d41a79bfee4cee81eb7f3f60ad78",
+    "position": 11,
+    "logo": "https://swap.oggyinu.com/images/coins/BABYBOB.png",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xc999B7bd2309A8EA2D1af57b4441E46377624A97",
+    "iconFire": false
+  },
+  {
+    "Name": "BABA",
+    "addressToken": "0x375c8DFbEEF52db5E86Bf94B0231D58678067F4f",
+    "position": 10,
+    "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BABA.jpg?raw=true",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xF54AD498A0dEeabbDe669b7D7B398B8Ac88B83D7",
+    "iconFire": false
+  },
+  {
+    "Name": "GrokBoy",
+    "addressToken": "0xAF27e0C18D1c63884eC73CEe8838a2aa49C58517",
+    "position": 9,
+    "logo": "https://swap.oggyinu.com/images/coins/GrokBoy.png",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xFeD96A4877081C44450341324EC4A4A79E8eF8E6",
+    "iconFire": false
+  },
+  {
+    "Name": "Gronk",
+    "addressToken": "0x46cb8bb9cC5f17dBfE50bAc73a5c1b2bE4667e6b",
+    "position": 12,
+    "logo": "https://swap.oggyinu.com/images/coins/Gronk.jpg",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x05a0783Fc2d0c3AF87Ef1856a5c8D2bcDD41B960",
+    "iconFire": false
+  },
+  {
+    "Name": "Grok X",
+    "addressToken": "0xa7ffb399d44eb830f01751052c75d14f0b47e779",
+    "position": 7,
+    "logo": "https://swap.oggyinu.com/images/coins/Grok X.jpg",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x23d96597b71599BA91f01bC9FF8a20fd282b3711",
+    "iconFire": false
+  },
+  {
+    "Name": "BabyGrok X",
+    "addressToken": "0x0E4197e42bA77bc2A84627087c1006AB1254FAE8",
+    "position": 14,
+    "logo": "https://swap.oggyinu.com/images/coins/BabyGrokX.png",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x18D2bb3652dE9c894E63032a9c4D0a4EB9a5792C",
+    "iconFire": false
+  },
+  {
+    "Name": "Droggy",
+    "addressToken": "0x556ee4EaB4fbF6DDc4C05285966FB839F424c8a8",
+    "position": 15,
+    "logo": "https://swap.oggyinu.com/images/coins/DROGGY.jpg",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x34533E98cae1276Bf150e14f19aCbf087A2e5672",
+    "iconFire": false
   }
 ]
