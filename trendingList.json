@@ -124,15 +124,7 @@
     "addressToken": "0xbfC89d2134053D15d277a01c2A1A1980E0A5dbCd",
     "position": 16,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyTomcat%20Logo%20200x200.png?raw=trueg",
-    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xbfC89d2134053D15d277a01c2A1A1980E0A5dbCd",
-    "iconFire": false
-  },
-  {
-    "Name": "Baby Tomcat",
-    "addressToken": "0xbfC89d2134053D15d277a01c2A1A1980E0A5dbCd",
-    "position": 17,
-    "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyTomcat%20Logo%20200x200.png?raw=trueg",
-    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xbfC89d2134053D15d277a01c2A1A1980E0A5dbCd",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x155A3aED2161CB601240f70b384A4A621D4d82dD",
     "iconFire": false
   },
   {
@@ -140,7 +132,7 @@
     "addressToken": "0xb0f92f94d02A4d634FD394c1889Fe3cAb1FCffc7",
     "position": 18,
     "logo": "https://swap.oggyinu.com/images/coins/DOGB.jpg",
-    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/ethereum/0xb0f92f94d02A4d634FD394c1889Fe3cAb1FCffc7",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/ethereum/0xede8Cd1a7e9dC954608E6235Eb5b7145638bC169",
     "iconFire": false
   }
 ]
