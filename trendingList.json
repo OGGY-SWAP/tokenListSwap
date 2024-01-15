@@ -130,7 +130,6 @@
   {
     "Name": "DogeBoy",
     "addressToken": "0xb0f92f94d02A4d634FD394c1889Fe3cAb1FCffc7",
-    "position": 17,
     "logo": "https://swap.oggyinu.com/images/coins/DOGB.jpg",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/ethereum/0xede8Cd1a7e9dC954608E6235Eb5b7145638bC169",
     "iconFire": false
