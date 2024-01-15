@@ -56,14 +56,6 @@
     "iconFire": false
   },
   {
-    "Name": "Baby Tomcat",
-    "addressToken": "0xbfC89d2134053D15d277a01c2A1A1980E0A5dbCd",
-    "position": 1,
-    "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyTomcat%20Logo%20200x200.png?raw=true",
-    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x155A3aED2161CB601240f70b384A4A621D4d82dD",
-    "iconFire": true
-  },
-  {
     "Name": "PawStars Token",
     "addressToken": "0xFC914eCB4e4cbEea1Fcf5315129C6cdB398cd465",
     "position": 16,
