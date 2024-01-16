@@ -56,6 +56,15 @@
       "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyTomcat%20Logo%20200x200.png?raw=true"
     },
     {
+      "name": "LIL GROK",
+      "symbol": "LGROK",
+      "address": "0x7AC4B700f5D62b0b7f614ED1D525483fDaf90Cd8",
+      "chainId": 56,
+      "decimals": 18,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/LilGrok%20logo.png?raw=true"
+    },
+    {
       "name": "Bonk Grok",
       "symbol": "BONKGROK",
       "address": "0x3039d49843B8820fc9D457BB40e29fF0E0450A79",
