@@ -64,6 +64,15 @@
       "position": 1,
       "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyShark%20logo%20200x200.png?raw=true"
     },
+     {
+      "name": "TYO GHOUL",
+      "symbol": "TYO GHOUL",
+      "address": "0x421a8e74f09Fb000283E6FA8F1308834214B4831",
+      "chainId": 56,
+      "decimals": 18,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/Tokyo%20logo.png?raw=true"
+    },
     {
       "name": "LIL GROK",
       "symbol": "LGROK",
