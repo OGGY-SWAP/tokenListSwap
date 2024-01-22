@@ -18,7 +18,7 @@
   {
     "Name": "Baby Dragon",
     "addressToken": "0xd7935bF3a576E997021789F895F0E898fC1aADd6",
-    "position": 5,
+    "position": 3,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyDragon%20Logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x8551C93859eda070170fcdc4AA18c1906471012D",
     "iconFire": true
@@ -50,7 +50,7 @@
   {
     "Name": "Baby Elon",
     "addressToken": "0x258903A8e68d5248dE85CF8a0a173d9e046EdD98",
-    "position": 3,
+    "position": 5,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BABYELON%20logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x04C6C9ed900ec87b52DF1c664d1ac16650398421",
     "iconFire": true
