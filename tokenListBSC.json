@@ -64,6 +64,15 @@
       "position": 1,
       "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyShark%20logo%20200x200.png?raw=true"
     },
+    {
+      "name": "BABY CAPTAIN",
+      "symbol": "BABYCAPTAIN",
+      "address": "0xd612Fb562bbeaE2d4dCDF69321c24b2b2312b737",
+      "chainId": 56,
+      "decimals": 9,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyCaptain%20logo.png?raw=true"
+    },
      {
       "name": "TYO GHOUL",
       "symbol": "TYO GHOUL",
