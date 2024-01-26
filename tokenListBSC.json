@@ -92,6 +92,15 @@
       "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/LilGrok%20logo.png?raw=true"
     },
     {
+      "name": "DADA",
+      "symbol": "DADA",
+      "address": "0x490bE8605051c4876e4A94910a941e3549801D74",
+      "chainId": 56,
+      "decimals": 9,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/DADA%20logo.png?raw=true"
+    },
+    {
       "name": "Bonk Grok",
       "symbol": "BONKGROK",
       "address": "0x3039d49843B8820fc9D457BB40e29fF0E0450A79",
