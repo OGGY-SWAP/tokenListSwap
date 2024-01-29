@@ -101,6 +101,15 @@
       "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/DADA%20logo.png?raw=true"
     },
     {
+      "name": "Baby Long",
+      "symbol": "BABYLONG",
+      "address": "0xeD287677F55859525F123314a4736256D6D30686",
+      "chainId": 56,
+      "decimals": 18,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyLong%20logo.png?raw=true"
+    },
+    {
       "name": "Bonk Grok",
       "symbol": "BONKGROK",
       "address": "0x3039d49843B8820fc9D457BB40e29fF0E0450A79",
