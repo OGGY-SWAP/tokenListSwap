@@ -2,7 +2,7 @@
   {
     "Name": "OGGY",
     "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
-    "position": 10,
+    "position": 3,
     "logo": "/images/swap/logo-icon.png",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/ethereum/0x39a34c542b0204a1b49a4886c312be7cb2e2a008",
     "iconFire": true
@@ -10,7 +10,6 @@
   {
     "Name": "FROGGY",
     "addressToken": "0x4C561c1ef2109fc6b230304b114671F72820421B",
-    "position": 11,
     "logo": "https://bscscan.com/token/images/froggybsc_32.png",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x92fe0733c1219d1d76b09eed091914050430abbe",
     "iconFire": false
@@ -18,15 +17,21 @@
   {
     "Name": "Baby Dragon",
     "addressToken": "0xd7935bF3a576E997021789F895F0E898fC1aADd6",
-    "position": 4,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyDragon%20Logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x8551C93859eda070170fcdc4AA18c1906471012D",
     "iconFire": true
   },
   {
+    "Name": "Baby Long",
+    "addressToken": "0xeD287677F55859525F123314a4736256D6D30686",
+    "position": 1,
+    "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyLong%20logo.png?raw=true",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x0fA6e38aec9A1AB83c276d4ce2022EaBF0712Da1",
+    "iconFire": true
+  },
+  {
     "Name": "Baby Tomcat",
     "addressToken": "0xbfC89d2134053D15d277a01c2A1A1980E0A5dbCd",
-    "position": 3,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyTomcat%20Logo%20200x200.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x155A3aED2161CB601240f70b384A4A621D4d82dD",
     "iconFire": true
@@ -34,7 +39,7 @@
   {
     "Name": "Baby Shark",
     "addressToken": "0x1225075C06b8E288953531e96f22490DD85B7F60",
-    "position": 1,
+    "position": 2,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyShark%20logo%20200x200.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xCaBc2aAb2Aa5A4499C2eEE8B80d5B6249C799eBA",
     "iconFire": true
@@ -42,7 +47,6 @@
    {
     "Name": "TYO GHOUL",
     "addressToken": "0x421a8e74f09Fb000283E6FA8F1308834214B4831",
-    "position": 2,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/Tokyo%20logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xf48B0A8763dC27Bfd4BcF66486e7285EEEB1C300",
     "iconFire": true
@@ -50,7 +54,6 @@
   {
     "Name": "LIL GROK",
     "addressToken": "0x7AC4B700f5D62b0b7f614ED1D525483fDaf90Cd8",
-    "position": 5,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/LilGrok%20logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x74292F202EE2c5fA2B27dBF15DceA3765D86F5c0",
     "iconFire": true
@@ -58,7 +61,6 @@
   {
     "Name": "Baby Elon",
     "addressToken": "0x258903A8e68d5248dE85CF8a0a173d9e046EdD98",
-    "position": 6,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BABYELON%20logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x04C6C9ed900ec87b52DF1c664d1ac16650398421",
     "iconFire": true
@@ -66,7 +68,6 @@
   {
     "Name": "GROKINU",
     "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
-    "position": 8,
     "logo": "https://bscscan.com/token/images/gorukinu_32.png",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xa62ce444dbcc96ad2cea40805a780403e5434ce9",
     "iconFire": false
@@ -74,7 +75,6 @@
   {
     "Name": "Bonk Grok",
     "addressToken": "0x3039d49843B8820fc9D457BB40e29fF0E0450A79",
-    "position": 9,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BonkGrok%20logo.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xcC972d38e96B337ef1E2f60f62725ef5c80eF8B9",
     "iconFire": true
@@ -138,7 +138,6 @@
   {
     "Name": "Droggy",
     "addressToken": "0x556ee4EaB4fbF6DDc4C05285966FB839F424c8a8",
-    "position": 7,
     "logo": "https://swap.oggyinu.com/images/coins/DROGGY.jpg",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x34533E98cae1276Bf150e14f19aCbf087A2e5672",
     "iconFire": false
