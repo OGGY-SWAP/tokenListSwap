@@ -20,6 +20,15 @@
       "logoURI": "https://swap.oggyinu.com/images/swap/logo-icon.png?v=1.2"
     },
     {
+      "name": "SORA CEO",
+      "symbol": "SORACEO",
+      "address": "0xB8AAbB659b47dEdeBe222a0d6E0e96758a6351a1",
+      "chainId": 56,
+      "decimals": 9,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/SoraCEO%20logo.png?raw=true"
+    },
+    {
       "name": "OPTIMUS GROKS",
       "symbol": "OPGROKS",
       "address": "0xeBdea6832976422D6717de58106750E78A896b18",
