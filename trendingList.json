@@ -2,7 +2,7 @@
   {
     "Name": "OGGY",
     "addressToken": "0x7e877b99897D514da01bD1d177E693EC639961Af",
-    "position": 1,
+    "position": 2,
     "logo": "/images/swap/logo-icon.png",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/ethereum/0x39a34c542b0204a1b49a4886c312be7cb2e2a008",
     "iconFire": true
@@ -13,6 +13,14 @@
     "logo": "https://bscscan.com/token/images/froggybsc_32.png",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x92fe0733c1219d1d76b09eed091914050430abbe",
     "iconFire": false
+  },
+  {
+    "Name": "SORA CEO",
+    "addressToken": "0xB8AAbB659b47dEdeBe222a0d6E0e96758a6351a1",
+    "position": 1,
+    "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/SoraCEO%20logo.png?raw=true",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x84177d77E78b3E71bD8726b8f6454fFF0F1eFcc7",
+    "iconFire": true
   },
   {
     "Name": "Baby Dragon",
@@ -38,7 +46,7 @@
   {
     "Name": "Baby Shark",
     "addressToken": "0x1225075C06b8E288953531e96f22490DD85B7F60",
-    "position": 2,
+    "position": 3,
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyShark%20logo%20200x200.png?raw=true",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xCaBc2aAb2Aa5A4499C2eEE8B80d5B6249C799eBA",
     "iconFire": true
