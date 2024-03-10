@@ -29,6 +29,15 @@
       "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/SoraCEO%20logo.png?raw=true"
     },
     {
+      "name": "Baby Rats",
+      "symbol": "BABYRATS",
+      "address": "0x079c6Dc6b3B627E8eB07fa2e391B27d59Eb4000B",
+      "chainId": 56,
+      "decimals": 9,
+      "position": 1,
+      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyRats%20Logo.png?raw=true"
+    },
+    {
       "name": "OPTIMUS GROKS",
       "symbol": "OPGROKS",
       "address": "0xeBdea6832976422D6717de58106750E78A896b18",
