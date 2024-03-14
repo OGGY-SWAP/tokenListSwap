@@ -22,14 +22,6 @@
     "iconFire": true
   },
   {
-    "Name": "Baby Rats",
-    "addressToken": "0x079c6Dc6b3B627E8eB07fa2e391B27d59Eb4000B",
-    "position": 1,
-    "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyRats%20Logo.png?raw=true",
-    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xa946f597cD1679c9cDe2261F3289842A068c4E4F",
-    "iconFire": true
-  },
-  {
     "Name": "Baby Dragon",
     "addressToken": "0xd7935bF3a576E997021789F895F0E898fC1aADd6",
     "logo": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyDragon%20Logo.png?raw=true",
