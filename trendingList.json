@@ -162,5 +162,12 @@
     "logo": "https://swap.oggyinu.com/images/coins/DOGB.jpg",
     "linkChart": "https://api.dexscreener.com/latest/dex/pairs/ethereum/0xede8Cd1a7e9dC954608E6235Eb5b7145638bC169",
     "iconFire": false
+  },
+  {
+    "Name": "CatWif",
+    "addressToken": "Avb1PBRudW7uUV9MqTUqfZ3EZTDvNkKS63W3wyPseudf",
+    "logo": "https://swap.oggyinu.com/images/coins/CatWif.jpg",
+    "linkChart": "https://api.dexscreener.com/latest/dex/pairs/solana/J37wzATp3rvAh1y1tq3Y4M3c9Rg1LJSA4YDDXBm9t3x2",
+    "iconFire": false
   }
 ]
